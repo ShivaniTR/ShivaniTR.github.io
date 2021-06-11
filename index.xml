@@ -8,6 +8,42 @@
     <language>en-us</language>
     <lastBuildDate>Thu, 10 Jun 2021 03:11:51 +0530</lastBuildDate><atom:link href="https://ShivaniTR.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Fourth</title>
+      <link>https://ShivaniTR.github.io/update/fourth/</link>
+      <pubDate>Fri, 11 Jun 2021 23:35:33 +0530</pubDate>
+      
+      <guid>https://ShivaniTR.github.io/update/fourth/</guid>
+      <description>I added the blogs menu.</description>
+    </item>
+    
+    <item>
+      <title> </title>
+      <link>https://ShivaniTR.github.io/blog/</link>
+      <pubDate>Fri, 11 Jun 2021 21:11:39 +0530</pubDate>
+      
+      <guid>https://ShivaniTR.github.io/blog/</guid>
+      <description>Things I have done so far Setting up a github account and creating a page I created a github account and created a site there. I found this process quite simple. All we had to do was create a repository and then we could easily create a site through github pages. All we had to do was create one markdown file and we could add that to a page and we had a site!</description>
+    </item>
+    
+    <item>
+      <title>Third</title>
+      <link>https://ShivaniTR.github.io/update/third/</link>
+      <pubDate>Fri, 11 Jun 2021 19:14:20 +0530</pubDate>
+      
+      <guid>https://ShivaniTR.github.io/update/third/</guid>
+      <description>I attached an asciinema recording to my site. He is the recording</description>
+    </item>
+    
+    <item>
+      <title>Second</title>
+      <link>https://ShivaniTR.github.io/update/second/</link>
+      <pubDate>Thu, 10 Jun 2021 18:57:23 +0530</pubDate>
+      
+      <guid>https://ShivaniTR.github.io/update/second/</guid>
+      <description>I made a change to the site after deploying it!</description>
+    </item>
+    
+    <item>
       <title>About Me</title>
       <link>https://ShivaniTR.github.io/about/</link>
       <pubDate>Thu, 10 Jun 2021 03:31:07 +0530</pubDate>
