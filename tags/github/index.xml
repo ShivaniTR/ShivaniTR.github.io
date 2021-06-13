@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>github on Introduction</title>
-    <link>http://example.com/tags/github/</link>
+    <link>http://ShivaniTR.github.io/tags/github/</link>
     <description>Recent content in github on Introduction</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 01 Jun 2021 14:49:58 +0530</lastBuildDate><atom:link href="http://example.com/tags/github/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 01 Jun 2021 14:49:58 +0530</lastBuildDate><atom:link href="http://ShivaniTR.github.io/tags/github/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Creating a site using github pages</title>
-      <link>http://example.com/blog/github/</link>
+      <link>http://ShivaniTR.github.io/blog/github/</link>
       <pubDate>Tue, 01 Jun 2021 14:49:58 +0530</pubDate>
       
-      <guid>http://example.com/blog/github/</guid>
+      <guid>http://ShivaniTR.github.io/blog/github/</guid>
       <description></description>
     </item>
     
