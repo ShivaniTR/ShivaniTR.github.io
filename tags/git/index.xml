@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>git on Introduction</title>
+    <link>http://example.com/tags/git/</link>
+    <description>Recent content in git on Introduction</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 10 Jun 2021 15:17:14 +0530</lastBuildDate><atom:link href="http://example.com/tags/git/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Git Add Commit Push</title>
+      <link>http://example.com/blog/changingsite/</link>
+      <pubDate>Thu, 10 Jun 2021 15:17:14 +0530</pubDate>
+      
+      <guid>http://example.com/blog/changingsite/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Installing Git</title>
+      <link>http://example.com/blog/git/</link>
+      <pubDate>Wed, 02 Jun 2021 00:34:15 +0530</pubDate>
+      
+      <guid>http://example.com/blog/git/</guid>
+      <description>Git is a version control system. It is used to store code and make changes to it while keeping track of the changes that have been made. Many developers can make changes simultaneously.
+Installing git: CLICK HERE - terminal recoding of git installation.</description>
+    </item>
+    
+  </channel>
+</rss>

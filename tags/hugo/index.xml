@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>hugo on Introduction</title>
+    <link>http://example.com/tags/hugo/</link>
+    <description>Recent content in hugo on Introduction</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 09 Jun 2021 02:11:22 +0530</lastBuildDate><atom:link href="http://example.com/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Creating a Basic Hugo Site</title>
+      <link>http://example.com/blog/basicsite/</link>
+      <pubDate>Wed, 09 Jun 2021 02:11:22 +0530</pubDate>
+      
+      <guid>http://example.com/blog/basicsite/</guid>
+      <description>Creating a sample site using hugo themes. I follow this video for reference.
+Terminal recording of creating a basic site https://asciinema.org/a/oxY36fi1C213cFFUISoPjrzwx
+The theme was found on Hugo Themes and this is the link to the repository that was added as a submodule
+Here is the image of the final website that was locally hosted The content can be modified by changing the sample/content folder. The content folder in the exampleSite in the theme can be used as a reference.</description>
+    </item>
+    
+    <item>
+      <title>Installing Hugo, Trial and Error</title>
+      <link>http://example.com/blog/hugoinstall/</link>
+      <pubDate>Mon, 07 Jun 2021 20:47:26 +0530</pubDate>
+      
+      <guid>http://example.com/blog/hugoinstall/</guid>
+      <description>It took me three attempts to successfully install Hugo. I realised the consequence of not reading the doccumentation and instructions properly.
+First Attempt I used the apt-get command line tool to install hugo.
+sudo apt-get update sudo apt-get install hugo I went on to explore the themes and and I came across this: *Minimum Hugo Version: 0.82.0
+On checking:
+hugo version Hugo Static Site Generator v0.40.1 linux/amd64 BuildDate:2018-04-25T17:16:11Z I found that this is the default version the apt-get tool installs</description>
+    </item>
+    
+  </channel>
+</rss>

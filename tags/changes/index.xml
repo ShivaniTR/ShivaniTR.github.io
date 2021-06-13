@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>changes on Introduction</title>
+    <link>http://example.com/tags/changes/</link>
+    <description>Recent content in changes on Introduction</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 10 Jun 2021 15:17:14 +0530</lastBuildDate><atom:link href="http://example.com/tags/changes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Git Add Commit Push</title>
+      <link>http://example.com/blog/changingsite/</link>
+      <pubDate>Thu, 10 Jun 2021 15:17:14 +0530</pubDate>
+      
+      <guid>http://example.com/blog/changingsite/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>uninstall on Introduction</title>
+    <link>http://example.com/tags/uninstall/</link>
+    <description>Recent content in uninstall on Introduction</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 07 Jun 2021 20:47:26 +0530</lastBuildDate><atom:link href="http://example.com/tags/uninstall/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Installing Hugo, Trial and Error</title>
+      <link>http://example.com/blog/hugoinstall/</link>
+      <pubDate>Mon, 07 Jun 2021 20:47:26 +0530</pubDate>
+      
+      <guid>http://example.com/blog/hugoinstall/</guid>
+      <description>It took me three attempts to successfully install Hugo. I realised the consequence of not reading the doccumentation and instructions properly.
+First Attempt I used the apt-get command line tool to install hugo.
+sudo apt-get update sudo apt-get install hugo I went on to explore the themes and and I came across this: *Minimum Hugo Version: 0.82.0
+On checking:
+hugo version Hugo Static Site Generator v0.40.1 linux/amd64 BuildDate:2018-04-25T17:16:11Z I found that this is the default version the apt-get tool installs</description>
+    </item>
+    
+  </channel>
+</rss>
