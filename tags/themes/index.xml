@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>themes on Introduction</title>
-    <link>http://ShivaniTR.github.io/tags/themes/</link>
+    <link>https://ShivaniTR.github.io/tags/themes/</link>
     <description>Recent content in themes on Introduction</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 09 Jun 2021 02:11:22 +0530</lastBuildDate><atom:link href="http://ShivaniTR.github.io/tags/themes/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 09 Jun 2021 02:11:22 +0530</lastBuildDate><atom:link href="https://ShivaniTR.github.io/tags/themes/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Creating a Basic Hugo Site</title>
-      <link>http://ShivaniTR.github.io/blog/basicsite/</link>
+      <link>https://ShivaniTR.github.io/blog/basicsite/</link>
       <pubDate>Wed, 09 Jun 2021 02:11:22 +0530</pubDate>
       
-      <guid>http://ShivaniTR.github.io/blog/basicsite/</guid>
+      <guid>https://ShivaniTR.github.io/blog/basicsite/</guid>
       <description>Creating a sample site using hugo themes. I follow this video for reference.
 Terminal recording of creating a basic site https://asciinema.org/a/oxY36fi1C213cFFUISoPjrzwx
 The theme was found on Hugo Themes and this is the link to the repository that was added as a submodule
