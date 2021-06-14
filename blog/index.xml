@@ -6,23 +6,28 @@
     <description>Recent content in Blog on Introduction</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 13 Jun 2021 17:00:15 +0530</lastBuildDate><atom:link href="https://ShivaniTR.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Hosting site </title>
-      <link>https://ShivaniTR.github.io/blog/deploy/</link>
-      <pubDate>Sun, 13 Jun 2021 17:00:15 +0530</pubDate>
-      
-      <guid>https://ShivaniTR.github.io/blog/deploy/</guid>
-      <description></description>
-    </item>
-    
+    <lastBuildDate>Fri, 11 Jun 2021 15:17:14 +0530</lastBuildDate><atom:link href="https://ShivaniTR.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Git Add Commit Push</title>
       <link>https://ShivaniTR.github.io/blog/changingsite/</link>
-      <pubDate>Thu, 10 Jun 2021 15:17:14 +0530</pubDate>
+      <pubDate>Fri, 11 Jun 2021 15:17:14 +0530</pubDate>
       
       <guid>https://ShivaniTR.github.io/blog/changingsite/</guid>
-      <description></description>
+      <description>Updating the contents of a site after it has been deployed:
+Steps:
+ clone the git repository username.github.io change files or create files add the changes to the repository using git add filename commit these changes using git commit -m &amp;quot;commit message&amp;quot; push these changes using git push  recording for after the repository has been cloned and changes have been made: https://asciinema.org/a/1spEiDMcqwEN6pZZWieqiRMRv</description>
+    </item>
+    
+    <item>
+      <title>Hosting site </title>
+      <link>https://ShivaniTR.github.io/blog/deploy/</link>
+      <pubDate>Thu, 10 Jun 2021 17:00:15 +0530</pubDate>
+      
+      <guid>https://ShivaniTR.github.io/blog/deploy/</guid>
+      <description>I followed this instructional video on deploying the site.
+I ran into an error:
+So after that I followed these steps:
+ type the hugo command from my folder to create the public folder cd public git init git remote add origin username.github.io git commit -m &amp;ldquo;commit message&amp;rdquo; git push  </description>
     </item>
     
     <item>
@@ -77,64 +82,10 @@ Installing git: CLICK HERE - terminal recoding of git installation.</description
       <pubDate>Tue, 01 Jun 2021 14:49:58 +0530</pubDate>
       
       <guid>https://ShivaniTR.github.io/blog/github/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Theme Features</title>
-      <link>https://ShivaniTR.github.io/blog/configuration/</link>
-      <pubDate>Sat, 25 Jul 2020 02:04:06 -0500</pubDate>
-      
-      <guid>https://ShivaniTR.github.io/blog/configuration/</guid>
-      <description>Here are some helpful tips for setting up this theme.
-Configuration Most of what you&amp;rsquo;ll want to configure is demonstrated in the exampleSite config.toml. This is Hugo&amp;rsquo;s configuration file. You can copy the config.toml in the exampleSite/ to your site root get started.
-Here are all the options included in the configuration file for this example site! baseURL = &amp;#34;https://ShivaniTR.github.io/&amp;#34; # Your domain name. Must end with &amp;#34;/&amp;#34; theme = &amp;#34;hugo-theme-introduction&amp;#34; DefaultContentLanguage = &amp;#34;en&amp;#34; # Default language for multilingual sites # disqusshortname = &amp;#34;&amp;#34; # https://gohugo.</description>
-    </item>
-    
-    <item>
-      <title>**Long** Form Post!</title>
-      <link>https://ShivaniTR.github.io/blog/long-form-post/</link>
-      <pubDate>Thu, 30 May 2019 20:18:53 -0500</pubDate>
-      
-      <guid>https://ShivaniTR.github.io/blog/long-form-post/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Cursus eget nunc scelerisque viverra. Quam vulputate dignissim suspendisse in est ante in nibh mauris. Pharetra magna ac placerat vestibulum lectus mauris. Eget lorem dolor sed viverra ipsum.
-Elementum Nisi Quis eleifend quam adipiscing. Aliquet nec ullamcorper sit amet risus. Auctor neque vitae tempus quam pellentesque. Tincidunt lobortis feugiat vivamus at augue.</description>
-    </item>
-    
-    <item>
-      <title>Hipster Ipsum</title>
-      <link>https://ShivaniTR.github.io/blog/hipster-ipsum/</link>
-      <pubDate>Mon, 13 Nov 2017 11:58:39 -0500</pubDate>
-      
-      <guid>https://ShivaniTR.github.io/blog/hipster-ipsum/</guid>
-      <description>Occupy mlkshk kale chips woke, listicle locavore next level fingerstache glossier aesthetic man braid before they sold out kitsch prism. Cred copper mug freegan, flannel YOLO single-origin coffee skateboard artisan four loko church-key man bun. Synth literally gastropub, kombucha chillwave helvetica offal truffaut church-key freegan pop-up gentrify narwhal. Kombucha viral vexillologist green juice. Slow-carb hoodie mumblecore tumeric tattooed meditation, lo-fi fap cred affogato forage whatever austin. Shabby chic direct trade migas, brunch gochujang sriracha chambray fanny pack 8-bit mustache letterpress.</description>
-    </item>
-    
-    <item>
-      <title>Startup Ipsum</title>
-      <link>https://ShivaniTR.github.io/blog/startup-ipsum/</link>
-      <pubDate>Mon, 06 Nov 2017 12:04:06 -0500</pubDate>
-      
-      <guid>https://ShivaniTR.github.io/blog/startup-ipsum/</guid>
-      <description>SpaceTeam affordances quantitative vs. qualitative SpaceTeam physical computing earned media thinker-maker-doer pair programming. Bootstrapping pitch deck physical computing driven cortado human-centered design innovate human-centered design driven. Grok pitch deck fund pitch deck sticky note affordances minimum viable product integrate paradigm viral iterate. Driven fund thought leader personas workflow SpaceTeam viral pair programming physical computing intuitive 360 campaign latte bootstrapping minimum viable product. Bootstrapping physical computing responsive pitch deck SpaceTeam parallax long shadow pitch deck bootstrapping ideate.</description>
-    </item>
-    
-    <item>
-      <title>Coffee Ipsum</title>
-      <link>https://ShivaniTR.github.io/blog/coffee-ipsum/</link>
-      <pubDate>Wed, 01 Nov 2017 12:04:16 -0500</pubDate>
-      
-      <guid>https://ShivaniTR.github.io/blog/coffee-ipsum/</guid>
-      <description>Aromatic aroma con panna, crema so coffee robust coffee barista, café au lait trifecta that strong blue mountain cortado aftertaste. Aroma extraction french press, skinny sweet, blue mountain cup roast barista, beans, extra cappuccino mug crema strong. Americano caffeine white, con panna saucer sit, con panna eu, carajillo aftertaste kopi-luwak, body aftertaste cup single origin café au lait saucer. Macchiato java sweet arabica, turkish cup, eu flavour mug extraction white cortado saucer est white brewed instant, rich, barista breve cappuccino barista organic.</description>
-    </item>
-    
-    <item>
-      <title>Undated post</title>
-      <link>https://ShivaniTR.github.io/blog/no-date/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://ShivaniTR.github.io/blog/no-date/</guid>
-      <description>I was born yesterday, tomorrow.</description>
+      <description>I followed these instructions to create a site using pages.
+Steps followed:
+ created a github account created a repository cloned the repository created an index.md file with the initial message &amp;ldquo;hello world this file can be edited later from the github site) added this file to the repository commited it pushed in on the main branch  Terminal recording of how I did this
+Since the page had to be written in markdown, I used the markdown cheat sheet as reference.</description>
     </item>
     
   </channel>
