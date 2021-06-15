@@ -6,7 +6,19 @@
     <description>Recent content in Blog on Introduction</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 11 Jun 2021 15:17:14 +0530</lastBuildDate><atom:link href="https://ShivaniTR.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 15 Jun 2021 04:08:06 +0530</lastBuildDate><atom:link href="https://ShivaniTR.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Docker</title>
+      <link>https://ShivaniTR.github.io/blog/docker/</link>
+      <pubDate>Tue, 15 Jun 2021 04:08:06 +0530</pubDate>
+      
+      <guid>https://ShivaniTR.github.io/blog/docker/</guid>
+      <description>Installing docker through convinience script : https://asciinema.org/a/tmCjKnUyvGEJ1E6xxvInSOezV
+For some reason that didn&amp;rsquo;t work so I restarted my machine and ran the second command sudo sh get-docker.sh again and then I was able to run the test image.
+Running a test image: https://asciinema.org/a/w5eqBkVUm5Afkh6KBw0vKl0dZ
+Removing a docker image that is not in use: NOTE: the docker container has to be deleted first https://asciinema.org/a/L3OiK3tgLOenw0ZECuk6xFDMk</description>
+    </item>
+    
     <item>
       <title>Git Add Commit Push</title>
       <link>https://ShivaniTR.github.io/blog/changingsite/</link>
