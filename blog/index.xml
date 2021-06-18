@@ -6,9 +6,20 @@
     <description>Recent content in Blog on Introduction</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 15 Jun 2021 04:08:06 +0530</lastBuildDate><atom:link href="https://ShivaniTR.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 16 Jun 2021 09:47:15 +0530</lastBuildDate><atom:link href="https://ShivaniTR.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Docker</title>
+      <title>Ansible and Docker</title>
+      <link>https://ShivaniTR.github.io/blog/16/</link>
+      <pubDate>Wed, 16 Jun 2021 09:47:15 +0530</pubDate>
+      
+      <guid>https://ShivaniTR.github.io/blog/16/</guid>
+      <description>Not having to use sudo before every command:
+ Installing ansible python and pip3:
+Ansible runs on python so we need to install python. To connect to ansible we need docker sdk for python,for which we need pip3.</description>
+    </item>
+    
+    <item>
+      <title>Testing Docker</title>
       <link>https://ShivaniTR.github.io/blog/docker/</link>
       <pubDate>Tue, 15 Jun 2021 04:08:06 +0530</pubDate>
       
@@ -69,10 +80,10 @@ hugo version Hugo Static Site Generator v0.40.1 linux/amd64 BuildDate:2018-04-25
     
     <item>
       <title>Asciinema</title>
-      <link>https://ShivaniTR.github.io/blog/asciinema/</link>
+      <link>https://ShivaniTR.github.io/blog/recording/</link>
       <pubDate>Fri, 04 Jun 2021 19:51:17 +0530</pubDate>
       
-      <guid>https://ShivaniTR.github.io/blog/asciinema/</guid>
+      <guid>https://ShivaniTR.github.io/blog/recording/</guid>
       <description>Asciinema is a command line based terminal recording session. It records all the output on the terminal. The recording can be saved locally or on an asciinema account.
 How to install asciinema CLICK to view recording
 Linking your terminal to your asciinema account: The asciinema auth command (as shown in image) generates a link, linking your account to the terminal. Recording a terminal session The asciinema rec command (as shown in image) starts recording a terminal session.</description>
